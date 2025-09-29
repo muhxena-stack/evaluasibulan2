@@ -27,7 +27,7 @@ Struktur folder proyek ini diatur agar mudah dipahami:
 ├── assets/
 │   ├── css/
 │   │   └── styles.css      # File styling (CSS)
-│   └── data/
+│   └── public/
 │       └── resep.json      # Database resep dalam format JSON
 ├── src/
 │   ├── modules/
