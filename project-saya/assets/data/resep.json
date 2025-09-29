@@ -1,0 +1,229 @@
+{
+  "recipes": [
+    {
+      "title": "Rawon Daging",
+      "thumb": "https://asset.kompas.com/crops/RAkLCVPTiwC_qhG4W4wb1dN-uX4=/0x12:983x667/1200x800/data/photo/2023/11/17/6556dc6484a92.jpg",
+      "key": "resep-rawon-daging",
+      "times": "90 menit",
+      "portion": "4 porsi",
+      "difficulty": "Sedang",
+      "ingredient": [
+        "500g daging sapi",
+        "2 batang serai, memarkan",
+        "5 siung bawang putih",
+        "5 siung bawang merah",
+        "5 buah kluwek, rendam air panas",
+        "Garam, gula, minyak goreng secukupnya",
+        "Air secukupnya"
+      ],
+      "step": [
+        "Potong daging sapi sesuai selera.",
+        "Rendam kluwek dengan air panas, ambil isinya.",
+        "Haluskan bawang merah, bawang putih, dan kluwek.",
+        "Panaskan minyak, tumis bumbu halus + serai hingga harum.",
+        "Rebus daging dengan air hingga empuk.",
+        "Masukkan bumbu tumis ke dalam rebusan daging.",
+        "Tambahkan garam dan gula secukupnya.",
+        "Masak dengan api kecil 15–20 menit agar bumbu meresap.",
+        "Sajikan dengan nasi hangat dan taburan bawang goreng."
+      ]
+    },
+    {
+      "title": "Soto Ayam",
+      "thumb": "https://assets.unileversolutions.com/recipes-v3/236027-default.jpg?im=AspectCrop=(720,459);Resize=(720,459)",
+      "key": "resep-soto-ayam",
+      "times": "60 menit",
+      "portion": "4 porsi",
+      "difficulty": "Mudah",
+      "ingredient": [
+        "500g ayam, potong sesuai selera",
+        "2 liter air",
+        "2 batang serai, memarkan",
+        "3 lembar daun jeruk",
+        "Bumbu soto: 3 siung bawang putih, 5 siung bawang merah, 1 ruas kunyit, 1 ruas jahe",
+        "Bihun, kol, tomat, telur rebus"
+      ],
+      "step": [
+        "Rebus ayam dalam air hingga matang, angkat dan suwir.",
+        "Haluskan bumbu soto, tumis hingga harum.",
+        "Masukkan tumisan bumbu ke kuah ayam.",
+        "Tambahkan serai dan daun jeruk, masak 10 menit.",
+        "Siapkan bihun, kol, tomat, dan telur rebus.",
+        "Sajikan kuah soto dengan sayuran dan ayam suwir."
+      ]
+    },
+    {
+      "title": "Gudeg Jogja",
+      "thumb": "https://awsimages.detik.net.id/community/media/visual/2020/12/26/gudeg-yu-djum.jpeg?w=1120",
+      "key": "resep-gudeg-jogja",
+      "times": "3 jam",
+      "portion": "6 porsi",
+      "difficulty": "Sulit",
+      "ingredient": [
+        "1 kg nangka muda, potong kecil",
+        "500 ml santan kental",
+        "5 butir telur rebus",
+        "Daun salam, lengkuas, serai",
+        "Bumbu halus: 5 siung bawang merah, 3 siung bawang putih, 1 sdt ketumbar, 3 butir kemiri",
+        "Gula merah, garam secukupnya"
+      ],
+      "step": [
+        "Potong nangka muda dan cuci bersih.",
+        "Haluskan bumbu, tumis sebentar hingga harum.",
+        "Rebus nangka dengan bumbu halus, santan, daun salam, lengkuas, dan serai.",
+        "Masak dengan api kecil 2 jam, aduk sesekali agar tidak gosong.",
+        "Masukkan telur rebus dan gula merah, masak 1 jam lagi.",
+        "Cek rasa, sesuaikan garam dan gula.",
+        "Sajikan gudeg hangat dengan nasi dan krecek."
+      ]
+    },
+    {
+      "title": "Pecel Madiun",
+      "thumb": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/28023918/Ini-Cara-Membuat-Nasi-Pecel-Madiun-yang-Menggugah-Selera-.jpg.webp",
+      "key": "resep-pecel-madiun",
+      "times": "45 menit",
+      "portion": "4 porsi",
+      "difficulty": "Mudah",
+      "ingredient": [
+        "Sayuran rebus: kacang panjang, tauge, bayam",
+        "Sambal kacang: kacang tanah goreng, cabai, gula merah, garam, air panas",
+        "Lontong/nasi putih",
+        "Rempeyek (opsional)"
+      ],
+      "step": [
+        "Rebus sayuran hingga matang, tiriskan.",
+        "Haluskan kacang tanah goreng, cabai, gula merah, dan garam.",
+        "Tambahkan air panas sedikit demi sedikit hingga kental.",
+        "Campur sayuran dengan sambal kacang.",
+        "Sajikan pecel dengan lontong/nasi dan rempeyek."
+      ]
+    },
+    {
+      "title": "Nasi Liwet Solo",
+      "thumb": "https://asset.kompas.com/crops/3WHw0_nsUEpGJe_IJ-45Tc8t-hQ=/0x0:1000x667/1200x800/data/photo/2023/07/09/64aa0473728b0.jpg",
+      "key": "resep-nasi-liwet-solo",
+      "times": "2 jam",
+      "portion": "5 porsi",
+      "difficulty": "Sedang",
+      "ingredient": [
+        "1 liter beras",
+        "600 ml santan",
+        "Ayam suwir",
+        "Areh santan (santan kental dimasak)",
+        "Telur rebus",
+        "Daun salam, serai, garam secukupnya"
+      ],
+      "step": [
+        "Cuci beras hingga bersih.",
+        "Masak beras dengan santan, daun salam, serai, dan garam hingga matang.",
+        "Masak ayam, suwir-suwir, bumbui sesuai selera.",
+        "Masak areh santan hingga mendidih.",
+        "Sajikan nasi liwet dengan ayam suwir, areh, dan telur rebus."
+      ]
+    },
+    {
+  "title": "Nasi Uduk",
+  "thumb": "https://smkn1sragen.sch.id/wp-content/uploads/2024/12/nu1.jpg",
+  "key": "resep-nasi-uduk",
+  "times": "40 menit",
+  "portion": "4 porsi",
+  "difficulty": "Mudah",
+  "ingredient": [
+    "2 gelas beras, cuci bersih",
+    "400 ml santan",
+    "2 batang serai, memarkan",
+    "2 lembar daun salam",
+    "Garam secukupnya",
+    "Bawang goreng untuk taburan"
+  ],
+  "step": [
+    "Cuci bersih beras dan tiriskan.",
+    "Masak beras dengan santan, serai, daun salam, dan garam hingga matang seperti nasi biasa.",
+    "Aduk sesekali agar santan meresap merata.",
+    "Sajikan nasi uduk hangat dan taburi bawang goreng di atasnya."
+  ]
+},
+    {
+      "title": "Ayam Goreng Kremes",
+      "thumb": "https://asset.kompas.com/crops/4cYZyBsGR3BlUjN2zDX3sdMn608=/0x70:1000x736/750x500/data/photo/2023/05/03/6451cae6c3742.jpg",
+      "key": "resep-ayam-goreng-kremes",
+      "times": "75 menit",
+      "portion": "4 porsi",
+      "difficulty": "Sedang",
+      "ingredient": [
+        "1 ekor ayam, potong sesuai selera",
+        "Bumbu halus: 5 siung bawang putih, 5 siung bawang merah, 1 sdt ketumbar",
+        "Tepung kremes: 100g tepung tapioka, 50g tepung terigu",
+        "Garam, penyedap secukupnya, minyak goreng"
+      ],
+      "step": [
+        "Marinasi ayam dengan bumbu halus + garam selama 30 menit.",
+        "Goreng ayam hingga matang dan kuning kecoklatan, angkat.",
+        "Campur tepung kremes dengan air, goreng tipis-tipis hingga renyah.",
+        "Taburkan kremes di atas ayam goreng.",
+        "Sajikan hangat dengan nasi."
+      ]
+    },
+    {
+      "title": "Tahu Tempe Bacem",
+      "thumb": "https://faktualnews.co/images/2022/08/tempe-bacem.jpg",
+      "key": "resep-tahu-tempe-bacem",
+      "times": "60 menit",
+      "portion": "4 porsi",
+      "difficulty": "Mudah",
+      "ingredient": [
+        "250g tempe, potong dadu",
+        "250g tahu, potong dadu",
+        "Santan 200 ml",
+        "Bumbu: bawang putih, bawang merah, ketumbar, gula merah, kecap manis, garam"
+      ],
+      "step": [
+        "Haluskan bumbu, campur dengan santan.",
+        "Rebus tahu dan tempe dengan bumbu hingga meresap, air menyusut.",
+        "Tiriskan dan goreng sebentar agar permukaan kecoklatan.",
+        "Sajikan hangat."
+      ]
+    },
+    {
+      "title": "Sayur Lodeh",
+      "thumb": "https://assets.unileversolutions.com/recipes-v3/230915-default.jpg?im=AspectCrop=(720,459);Resize=(720,459)",
+      "key": "resep-sayur-lodeh",
+      "times": "50 menit",
+      "portion": "4 porsi",
+      "difficulty": "Mudah",
+      "ingredient": [
+        "200g labu siam, potong dadu",
+        "100g kacang panjang, potong 5cm",
+        "1 batang serai, memarkan",
+        "Santan 400 ml",
+        "Bumbu halus: bawang merah, bawang putih, kemiri, kunyit, garam, gula"
+      ],
+      "step": [
+        "Rebus bumbu halus dengan santan hingga mendidih.",
+        "Masukkan sayuran, masak hingga matang.",
+        "Tambahkan garam dan gula, cek rasa.",
+        "Sajikan hangat."
+      ]
+    },
+    {
+      "title": "Bakwan Jagung",
+      "thumb": "https://asset.kompas.com/crops/_ql2__ouZzO-KO3phcUlukJuWcU=/0x0:0x0/1200x800/data/photo/2020/04/25/5ea421e5c5358.jpeg",
+      "key": "resep-bakwan-jagung",
+      "times": "30 menit",
+      "portion": "4 porsi",
+      "difficulty": "Mudah",
+      "ingredient": [
+        "2 jagung manis, serut",
+        "50g tepung terigu",
+        "1 butir telur",
+        "Garam, merica, daun bawang, minyak goreng"
+      ],
+      "step": [
+        "Campur jagung serut, tepung, telur, garam, merica, daun bawang.",
+        "Panaskan minyak, sendok adonan, goreng hingga kuning kecoklatan.",
+        "Angkat dan tiriskan.",
+        "Sajikan hangat dengan saus sambal atau cabai."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background: #fff5e6; /* background hangat */
+  color: #5a3e36;      /* teks utama coklat */
+  padding: 20px;
+}
+
+/* Header */
+h1 {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #6aa84f; /* hijau daun */
+}
+
+/* Search bar */
+#searchInput {
+  display: block;
+  width: 100%;
+  max-width: 450px;
+  margin: 0 auto 30px auto;
+  padding: 12px 20px;
+  font-size: 16px;
+  border: 2px solid #ff8c42;
+  border-radius: 25px;
+  background: #fff;
+  color: #5a3e36;
+}
+
+#searchInput:focus {
+  border-color: #6aa84f;
+  outline: none;
+}
+
+.nav-links {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.nav-links a {
+  font-weight: bold;
+}
+
+/* Back Button Styling */
+.back-button {
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 8px 18px;
+  background-color: #fff;
+  color: #ff8c42;
+  border: 2px solid #ff8c42;
+  border-radius: 25px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: all 0.2s ease-in-out;
+}
+.back-button:hover { background-color: #ff8c42; color: #fff; }
+
+/* Grid list resep */
+#recipeList {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+/* Card resep */
+.card {
+  background: #fff; 
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+.card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.card h3 {
+  font-size: 18px;
+  margin: 12px 10px 5px;
+  /* Perbaikan: Gunakan Flexbox untuk merapikan judul dan ikon */
+  display: flex;
+  justify-content: space-between; /* Mendorong judul ke kiri dan ikon ke kanan */
+  align-items: center; /* Menjaga agar tetap sejajar secara vertikal */
+}
+
+.card p {
+  font-size: 14px;
+  color: #7a5c4f;
+  margin: 0 10px 10px;
+}
+
+.card a {
+  display: inline-block;
+  margin: 0 10px 15px;
+  padding: 8px 15px;
+  text-decoration: none;
+  background: #ff8c42;
+  color: #fff;
+  border-radius: 25px;
+  font-size: 14px;
+}
+
+.favorite-icon {
+  font-size: 16px;
+}
+
+.card a:hover {
+  background: #6aa84f;
+}
+
+/* Detail page */
+#recipeDetail {
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+#recipeDetail img {
+  width: 100%;
+  border-radius: 15px;
+  margin-bottom: 15px;
+}
+
+#recipeDetail h2 {
+  margin-bottom: 12px;
+  color: #6aa84f;
+}
+
+#recipeDetail p {
+  margin-bottom: 8px;
+  font-size: 15px;
+  color: #5a3e36;
+}
+
+#recipeDetail h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #ff8c42;
+}
+
+#recipeDetail ul, #recipeDetail ol {
+  margin-left: 20px;
+  margin-bottom: 15px;
+}
+
+#recipeDetail button {
+  background: #ff8c42;
+  border: none;
+  padding: 10px 20px;
+  color: #fff;
+  border-radius: 30px;
+  cursor: pointer;
+  font-size: 15px;
+}
+#recipeDetail .actions button { margin-right: 10px; }
+#recipeDetail button:hover {
+  background: #6aa84f;
+}
+
+/* Footer */
+.site-footer {
+  background-color: #faeadd; /* Warna latar yang lebih hangat */
+  text-align: center;
+  margin-top: 50px;
+  padding: 25px 20px; /* Padding atas/bawah dan kiri/kanan */
+  border-top: 2px solid #ffcba4; /* Garis pemisah yang lebih tebal */
+  color: #7a5c4f;
+  font-size: 14px;
+}
+
+.site-footer a {
+  color: #ff8c42; /* Warna oranye yang sesuai tema */
+  font-weight: bold;
+}
